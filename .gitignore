@@ -18,3 +18,5 @@ test_pics/
 saved_data/*
 
 .ipynb_checkpoints/
+
+fits/*
